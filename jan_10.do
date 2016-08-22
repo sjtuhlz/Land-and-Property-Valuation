@@ -2,7 +2,7 @@
 //an extension of Jan_5.do
 //mobile home treated as a separate major category,  the other two are single and multi.
 //boats and not part of mobil home
-
+//new edit
 
 cd "D:\summer, 2011\Third Project\DT_download"
 local counties la VT OR SB RV
